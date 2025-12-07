@@ -21,8 +21,8 @@ This program is perfect for beginners who are learning Python and want to practi
 3. Based on the user’s choice, the program **performs the operation** and prints the result.
 
 Example:
-Enter the first number: 10
-Enter the second number: 5
-Enter operation (+, -, *, /): +
-10 + 5 = 15
+-Enter the first number: 10
+-Enter the second number: 5
+-Enter operation (+, -, *, /): +
+-10 + 5 = 15
 
